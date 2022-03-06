@@ -1,0 +1,16 @@
+{
+  "name": "distify",
+  "version": "1.0.0",
+  "description": "convert file into \u0016distributed storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CGLAB",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "ipfs-core": "^0.14.1",
+    "request": "^2.88.2"
+  }
+}
